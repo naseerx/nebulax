@@ -1,16 +1,14 @@
-# nebulax_task
+# Hi, I'm NASEER! 👋
+# NebulaX 
 
-A new Flutter project.
+## Authors
 
-## Getting Started
+- [@Muhammad Naseer](https://www.github.com/naseerz)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+<p float="left">
+  <img src="https://github.com/naseerx/nebulax/blob/master/ss/pic.png" width="300" />
+</p>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
